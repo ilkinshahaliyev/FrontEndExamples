@@ -1,0 +1,19 @@
+main {
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+
+footer {
+  width: auto;
+  height: auto;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+p {
+  color: white;
+  text-align: justify;
+}
